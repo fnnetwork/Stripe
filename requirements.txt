@@ -1,6 +1,6 @@
-import asyncio
-import requests
-import random
-import string
-from telethon import TelegramClient, events, Button
-import os
+asyncio
+requests
+random
+string
+telethon import TelegramClient, events, Button
+os
