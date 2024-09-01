@@ -2,5 +2,8 @@ asyncio
 requests
 random
 string
-telethon import TelegramClient, events, Button
+telethon 
+TelegramClient
+events
+Button
 os
