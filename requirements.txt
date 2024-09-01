@@ -1,5 +1,5 @@
 asyncio
-requests
+requests==2.31.0
 random
 string
 telethon 
