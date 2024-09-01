@@ -1,9 +1,7 @@
-asyncio
+asyncio==0.1.1
 requests==2.31.0
-random
-string
-telethon 
-TelegramClient
-events
-Button
-os
+random==2.7
+string==12.0
+telethon==1.36.0 
+events==0.5
+Button==0.0.3
