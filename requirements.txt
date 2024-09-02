@@ -1,5 +1,0 @@
-asyncio==0.1.1
-requests==2.31.0
-telethon==1.36.0 
-events==0.5
-Button==0.0.3
