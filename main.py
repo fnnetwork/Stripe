@@ -3,6 +3,9 @@ import requests
 import random
 import string
 import os
+import TelegramClient
+import events
+import Button
 
 api_id = '28811010'
 api_hash = 'a3e25d59b01f888528aa4c6d32d3c71a'
