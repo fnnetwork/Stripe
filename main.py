@@ -2,7 +2,9 @@ import asyncio
 import requests
 import random
 import string
-from telethon import TelegramClient, events, Button
+from telethon import TelegramClient
+import events
+import Button
 import os
 
 api_id = '28811010'
