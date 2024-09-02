@@ -2,7 +2,6 @@ import asyncio
 import requests
 import random
 import string
-import Button
 import os
 
 api_id = '28811010'
