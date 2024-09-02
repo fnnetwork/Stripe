@@ -2,9 +2,6 @@ import asyncio
 import requests
 import random
 import string
-import telethon 
-import TelegramClient
-import events
 import Button
 import os
 
