@@ -2,3 +2,4 @@ python-telegram-bot
 colorama
 aiohttp
 pymango
+dateutil
